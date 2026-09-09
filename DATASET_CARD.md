@@ -31,7 +31,7 @@ The authoritative sequence inventory is [metadata/sequences.csv](metadata/sequen
 
 ## Data collection and processing
 
-The data were generated in an AirSim-style simulation with an Unreal Engine maritime environment. Each frame uses a stop-and-scan capture procedure: carrier poses are held while static LiDAR scan phases and sensor reads are completed. The processed dataset preserves sensor-local point clouds and provides calibrated sensor poses and world-frame annotations.
+The data were generated in Unreal Engine 5.5.4 with AirSim in simulated maritime environments. Each frame uses a stop-and-scan capture procedure: carrier poses are held while static LiDAR scan phases and sensor reads are completed. The processed dataset preserves sensor-local point clouds and provides calibrated sensor poses and world-frame annotations.
 
 RGB and segmentation images are stored as PNG. LiDAR returns are stored as NumPy `float32` arrays. Structured metadata and annotations use JSON; frame timing uses JSON Lines.
 
