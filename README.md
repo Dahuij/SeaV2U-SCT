@@ -2,7 +2,7 @@
 
 **SeaV2U-SCT: SeaCrossTrack Study Subset** is the study-specific subset of SeaV2U used in the SeaCrossTrack paper for cooperative UAV–USV 3D object detection and tracking.
 
-> Release status: the repository metadata and validation tools are available. The v1.0 data archives have not yet been attached to a GitHub Release.
+> **Release status:** [SeaV2U-SCT v1.0](https://github.com/Dahuij/SeaV2U-SCT/releases/tag/v1.0) is publicly available through GitHub Releases.
 
 ## Overview
 
