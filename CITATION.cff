@@ -2,8 +2,6 @@ cff-version: 1.2.0
 message: "If you use SeaV2U-SCT, please cite the SeaCrossTrack paper and this dataset release."
 type: dataset
 title: "SeaV2U-SCT: SeaCrossTrack Study Subset"
-authors:
-  - name: "SeaCrossTrack Authors"
 version: 1.0.0
 date-released: 2026-09-09
 license: CC-BY-4.0
