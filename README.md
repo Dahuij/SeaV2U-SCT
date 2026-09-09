@@ -47,7 +47,7 @@ The split is sequence-level to prevent neighboring frames from leaking across tr
 
 ## Download
 
-The full dataset will be distributed as independent ZIP assets in the GitHub Release `SeaV2U-SCT v1.0`:
+The full dataset is distributed as independent ZIP assets in the [SeaV2U-SCT v1.0 release](https://github.com/Dahuij/SeaV2U-SCT/releases/tag/v1.0):
 
 ```text
 SeaV2U-SCT_v1.0_part01.zip
