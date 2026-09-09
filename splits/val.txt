@@ -1,0 +1,2 @@
+channel_R04_hover_a50_s6_t1200_sunny
+port_R03_patrol_a60_s6_t1200_foggy
