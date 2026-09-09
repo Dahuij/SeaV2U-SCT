@@ -1,0 +1,13 @@
+sequence,split,scene,route,uav_mode,altitude_m,speed_mps,time_of_day,weather,frames,files,bytes
+channel_R01_follow_a50_s6_t800_rainy,train,channel,R01,follow,50,6,800,rainy,240,6491,3268232459
+channel_R02_patrol_a40_s6_t2000_sunny,train,channel,R02,patrol,40,6,2000,sunny,240,6491,2988541643
+channel_R03_follow_a60_s6_t2300_foggy,train,channel,R03,follow,60,6,2300,foggy,240,6491,2207723296
+channel_R04_hover_a50_s6_t1200_sunny,val,channel,R04,hover,50,6,1200,sunny,240,6491,3781207993
+lake_R01_patrol_a50_s6_t1000_rainy,train,lake,R01,patrol,50,6,1000,rainy,101,2738,1512427677
+lake_R02_follow_a60_s6_t1500_sunny,train,lake,R02,follow,60,6,1500,sunny,118,3197,1942887775
+lake_R03_hover_a40_s6_t2200_sunny,train,lake,R03,hover,40,6,2200,sunny,107,2900,1536980358
+lake_R04_follow_a50_s6_t500_snowy,test,lake,R04,follow,50,6,500,snowy,105,2846,953133911
+port_R01_follow_a40_s6_t800_sunny,train,port,R01,follow,40,6,800,sunny,240,6491,3715417094
+port_R02_hover_a50_s6_t2000_sunny,train,port,R02,hover,50,6,2000,sunny,240,6491,3169997536
+port_R03_patrol_a60_s6_t1200_foggy,val,port,R03,patrol,60,6,1200,foggy,240,6491,2947045638
+port_R04_follow_a40_s6_t2300_rainy,test,port,R04,follow,40,6,2300,rainy,240,6491,1930623000
